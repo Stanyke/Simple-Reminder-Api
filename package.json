@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Stanyke/Reminder-Basic-Data-API.git"
+    "url": "git+https://github.com/Stanyke/Simple-Reminder-Api.git"
   },
   "keywords": [
     "storage",
@@ -28,7 +28,7 @@
   "author": "Stanley Chibuike",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Stanyke/Reminder-Basic-Data-API/issues"
+    "url": "https://github.com/Stanyke/Simple-Reminder-Api/issues"
   },
-  "homepage": "https://github.com/Stanyke/Reminder-Basic-Data-API#readme"
+  "homepage": "https://github.com/Stanyke/Simple-Reminder-Api#readme"
 }
