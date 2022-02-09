@@ -9,6 +9,9 @@ This is a nodejs application (api) with expressjs and mongoDB (for storage) that
 - Add the _DB_URI_ environment variable to the mongoDB you will be working with.
 - Start server using _npm run dev_
 
+<b>API Documentation</b>
+https://documenter.getpostman.com/view/12673071/UVeKoPmt
+
 <h3><u>How to use the application</u></h3>
 There are 5 apis available and are being detailed below.
 
